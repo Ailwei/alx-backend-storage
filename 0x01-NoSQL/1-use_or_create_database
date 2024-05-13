@@ -1,0 +1,7 @@
+// Define the database name
+db_name="my_db"
+
+// Use MongoDB shell to connect and switch to the specified database
+mongo <<EOF
+use $db_name
+EOF
