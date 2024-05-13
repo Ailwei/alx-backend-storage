@@ -1,4 +1,5 @@
-// MongoDB Operations with Python using pymongo
+#!/usr/bin/env python3
+""" MongoDB Operations with Python using pymongo """
 
 def list_all(collection):
     """ List all documents in Python """
