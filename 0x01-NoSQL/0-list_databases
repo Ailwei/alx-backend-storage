@@ -1,5 +1,4 @@
-#!/bin/bash
+//Exucute MongoDB command to list databases
 
-# Exucute MongoDB command to list databases
 echo "show dbs" | mongo
 
