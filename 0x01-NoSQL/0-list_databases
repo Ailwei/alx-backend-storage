@@ -1,4 +1,3 @@
 //Exucute MongoDB command to list databases
 
 echo "show dbs" | mongo
-
