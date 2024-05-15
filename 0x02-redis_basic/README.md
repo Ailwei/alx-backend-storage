@@ -1,0 +1,33 @@
+# Redis Basic
+
+## Back-end
+- Redis
+- Weight: 1
+
+Project will start May 15, 2024 6:00 AM, must end by May 16, 2024 6:00 AM
+
+Checker will be released at May 15, 2024 12:00 PM
+
+An auto review will be launched at the deadline
+
+## Resources
+Read or watch:
+- [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+- [Redis commands](https://redis.io/commands)
+- [Redis python client](https://pypi.org/project/redis/)
+- [How to Use Redis With Python](https://realpython.com/python-redis/)
+
+## Learning Objectives
+- Learn how to use Redis for basic operations
+- Learn how to use Redis as a simple cache
+
+## Requirements
+- All of your files will be interpreted/compiled on Ubuntu 18.04 LTS using python3 (version 3.7)
+- All of your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/env python3`
+- Your code should use the pycodestyle style (version 2.5)
+- All your modules should have documentation (`python3 -c 'print(__import__("my_module").__doc__)'`)
+- All your classes should have documentation (`python3 -c 'print(__import__("my_module").MyClass.__doc__)'`)
+- All your functions and methods should have documentation (`python3 -c 'print(__import__("my_module").my_function.__doc__)'` and `python3 -c 'print(__import__("my_module").MyClass.my_function.__doc__)'`)
+- A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
+- All your functions and coroutines must be type-annotated.
